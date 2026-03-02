@@ -12,6 +12,12 @@ A text normalization package for TTS (Text-to-Speech) preprocessing with multi-l
 
 ## Installation
 
+### From PyPI (Recommended)
+
+```bash
+pip install fida-normalizer
+```
+
 ### From Source
 
 ```bash
