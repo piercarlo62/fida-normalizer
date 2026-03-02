@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+Normalizer/__init__.py
+Normalizer/fida_normalizer.py
+fida_normalizer.egg-info/PKG-INFO
+fida_normalizer.egg-info/SOURCES.txt
+fida_normalizer.egg-info/dependency_links.txt
+fida_normalizer.egg-info/requires.txt
+fida_normalizer.egg-info/top_level.txt
