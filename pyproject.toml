@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fida-normalizer"
-version = "0.1.0"
+version = "0.1.1"
 description = "A text normalization package for TTS preprocessing with multi-language support"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -39,9 +39,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/fida/fida-normalizer"
-Repository = "https://github.com/fida/fida-normalizer"
-Issues = "https://github.com/fida/fida-normalizer/issues"
+Homepage = "https://github.com/piercarlo62/fida-normalizer"
+Repository = "https://github.com/piercarlo62/fida-normalizer"
+Issues = "https://github.com/piercarlo62/fida-normalizer/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
